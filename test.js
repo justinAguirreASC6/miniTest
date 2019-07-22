@@ -12,11 +12,7 @@ console.log(myName);
 let x = true;
 let y = false;
 let myArray = [myNumber,myName,x,y];
-if (x == true){
-    console.log("student")
-} else if(y == false){
-    console.log("Bruh u grown")
-}
+
 
 
 
@@ -52,15 +48,15 @@ let nestedArray = [
 //9a. make a directory called test
 
 // write answer here: 
-
+//mkdir test
 //9b. move to your test directory that you just created
 
 // write answer here: 
-
+//mv test.js test
 //9c. make a file called test.js
 
 // write answer here: 
-
+// touch test.js
 //9d. what is the command to open a file to vscode? 
 
 // write answer here: 
